@@ -1,0 +1,41 @@
+body{
+    background: gainsboro;
+    margin: auto;
+    padding: auto;
+    
+}
+.bienvenido{
+    background-color: white;
+    text-align: center;
+    padding: auto;
+    height: 100px;
+}
+.imagen{
+    text-align: center;
+    background: white;
+    padding: auto;
+}
+.header{
+    background-color: white;
+    padding: auto;
+    text-align: center;
+    display:middle ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.sis{
+text-align: center;
+background: white;
+padding: auto;
+
+}
+.form{
+    text-align: center;
+    padding: auto;
+}
+.vinculo{
+    text-align: center;
+    padding: auto;
+}
